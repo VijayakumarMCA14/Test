@@ -439,7 +439,7 @@ function loadDataFromElasticSearch(){
 	$.getJSON('http://localhost:9200/'+param,function(data){
 		console.log("Elastic Data@@@@@@@@@@@@@@@@");
 		console.log(data);
-		console.log("Elastic Data@@@@@@@@@@@@@@@@");
+		console.log("Elastic Data@@@@@@@@@@@@yyyyyyyyyyyyyyyy@@@@");
 	});
 }
 
